@@ -16,7 +16,7 @@
 #define SPARSE_SYSTEM_HPP
 #include <tuple>
 #include <vector>
-
+#include <iostream>
 #include "systems/distance_functions.h"
 
 
